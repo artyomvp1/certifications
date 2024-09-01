@@ -11,3 +11,4 @@ TBD
 ### Planned
 1Z0-770 - Oracle APEX Cloud Developer  
 Oracle SQL Tuning for Developers Workshop
+Terminal
