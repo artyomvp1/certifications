@@ -19,7 +19,7 @@
 [GOOGLE Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/UJPP3DXW2HDW)
 
 ### IN PROGRESS
-TBD
+[IBM Introduction to Machine Learning Specialization]
 
 ### Planned
 1Z0-770 - Oracle APEX Cloud Developer  
